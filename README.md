@@ -70,10 +70,10 @@ This application allows Admins, Customers, and Hotels to manage bookings, rooms,
 # 🌐 API Endpoints
 
 - Base URL:  
-http://localhost:8080/
+http://localhost:8888/
 
 - Swagger UI:  
-http://localhost:8080/swagger-ui/index.html
+http://localhost:8888/swagger-ui/index.html
 
 
 # 📌 Project Highlights
