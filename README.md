@@ -5,7 +5,7 @@ This application allows Admins, Customers, and Hotels to manage bookings, rooms,
 
 ---
 
-🚀 Tech Stack
+# 🚀 Tech Stack
 
 - Java (Core Java)
 - Spring Boot
@@ -17,9 +17,8 @@ This application allows Admins, Customers, and Hotels to manage bookings, rooms,
 - JUnit
 - Swagger UI
 
----
 
-📦 Modules
+# 📦 Modules
 
 - Login & Logout Module
 - Admin Module
@@ -28,17 +27,15 @@ This application allows Admins, Customers, and Hotels to manage bookings, rooms,
 - Room Module
 - Reservation Module
 
----
 
-🔐 Admin Features
+# 🔐 Admin Features
 
 - Add hotel / room
 - Delete hotel / room
 - View all hotels and rooms
 
----
 
-👤 Customer Features
+# 👤 Customer Features
 
 - Register
 - Login
@@ -47,9 +44,8 @@ This application allows Admins, Customers, and Hotels to manage bookings, rooms,
 - View hotel & room details
 - Make reservation
 
----
 
- 🏨 Hotel Features
+ # 🏨 Hotel Features
  - Register
 - Login
 - Manage hotel amenities
@@ -57,10 +53,9 @@ This application allows Admins, Customers, and Hotels to manage bookings, rooms,
 - Manage hotel location details
 - View ratings and reviews
 - Offer promotions and discounts
+  
 
----
-
-⚙️ Installation & Run
+# ⚙️ Installation & Run
 
 1. Clone the repository
 2. Update database
@@ -71,9 +66,8 @@ This application allows Admins, Customers, and Hotels to manage bookings, rooms,
 - Port number
 4. Run the Spring Boot application
 
----
 
-🌐 API Endpoints
+# 🌐 API Endpoints
 
 - Base URL:  
 http://localhost:8080/
@@ -81,9 +75,8 @@ http://localhost:8080/
 - Swagger UI:  
 http://localhost:8080/swagger-ui/index.html
 
----
 
-📌 Project Highlights
+# 📌 Project Highlights
 
 - RESTful API architecture
 - Layered architecture (Controller → Service → Repository)
